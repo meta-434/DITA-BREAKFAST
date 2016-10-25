@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t-ingredients">
+    <title>Collect the neccesary ingredients for the chicken and waffles recipe</title>
+    <shortdesc/>
+    <taskbody>
+        <prereq>
+        <ol audience="armando" id="veganchicken">
+            <li>1 14oz package of tofu</li>
+            <li>3 flax eggs (1 tablespoon ground flax seeds, plus 3 tablespoons of water per egg), mixed with ice cold almond milk</li>
+            <li>1 cup of hot sauce</li>
+            <li>2 cups all purpose flour</li>
+            <li>3 teaspoons baking powder</li>
+            <li>1 teaspoon salt</li>
+            <li>1 teaspoon pepper</li>
+        </ol>
+            
+        <ol audience="mom" id="chicken">
+            <li>8 boneless chicken thighs</li>
+            <li>2 cups buttermilk</li>
+            <li>2.5 cups all-purpose flour</li>
+            <li>1 tablespoon garlic salt</li>
+            <li>1 teaspoon paprika</li>
+            <li>1 teaspoon black pepper</li>
+            <li>1 teaspoon thyme</li>
+            <li>1 teaspoon cayenne pepper</li>
+            <li>.25 cup of milk</li>
+            <li>vegetable oil, for frying</li>
+        </ol>
+            
+        <ol audience="armando" id="veganwaffles">
+            <li>1.5 cups all-purpose flour</li>
+            <li>1 tablespoon coconut sugar</li>
+            <li>2 tablespoons baking powder</li>
+            <li>1 teaspoon salt</li>
+            <li>1 cup almond milk</li>
+            <li>3 tablespoons coconut oil, melted</li>
+            <li>vegetable oil, for frying</li>
+        </ol>
+            
+        <ol audience="mom" id="waffles">
+            <li>2 cups all-purpose flour</li>
+            <li>.25 cups sugar</li>
+            <li>1 tablespoon baking powder</li>
+            <li>.5 teaspoon salt</li>
+            <li>1.5 cups milk</li>
+            <li>1 tablespoon vanilla extract</li>
+            <li>4 large egg whites plus 2 large egg yolks</li>
+            <li>1 stick of salted butter, melted</li>
+            <li>1 or 2 jalapeños, chopped</li>
+        </ol>
+            
+        </prereq>
+        <steps>
+            <step>
+                <cmd></cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
