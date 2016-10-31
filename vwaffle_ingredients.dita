@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t-vwaffles" product="vegan" audience="armando">
+    <title>Vegan Waffle Ingredients</title>
+    <shortdesc> With this recipe, you would never know it's vegan just by tasting it. The coconut sugar adds a je-ne-sais-quois that makes these waffles a little more special than usual</shortdesc>
+    <taskbody>
+        
+        <prereq>
+            <ol id="veganwaffles">
+                <li>1.5 cups all-purpose flour</li>
+                <li>1 tablespoon coconut sugar</li>
+                <li>2 tablespoons baking powder</li>
+                <li>1 teaspoon salt</li>
+                <li>1 cup almond milk</li>
+                <li>3 tablespoons coconut oil, melted</li>
+            </ol>
+        </prereq>
+    </taskbody>
+</task>

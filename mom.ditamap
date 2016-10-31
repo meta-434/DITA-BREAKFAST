@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map audience="mom">
+ <title>Chicken and Waffles Breakfast Guide (Regular and Vegan)</title>
+ 
+ <topicref href="topic.dita"></topicref>
+
+  <topicref  href="vchicken_ingredients.dita"></topicref>
+  <topicref  href="vwaffle_ingredients.dita"></topicref>
+  <topicref  href="vchicken_cook.dita"></topicref>
+  <topicref  href="vwaffles_cook.dita"></topicref>
+ 
+  <topicref href="chicken_ingredients.dita"></topicref>
+  <topicref href="waffle_ingredients.dita"></topicref>
+  <topicref href="chicken_cook.dita"></topicref>
+  <topicref href="waffles_cook.dita"></topicref>
+ 
+</map>

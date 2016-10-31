@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t-friedck" audience="mom" product="regular">
+    <title>Fried Chicken Ingredients</title>
+    <shortdesc>This is a standard fried chicken recipe that goes very well in a breakfast of fried chicken and waffles. </shortdesc>
+    <taskbody>
+        
+        <prereq>
+            <ol id="chicken">
+                <li>8 boneless chicken thighs</li>
+                <li>2 cups buttermilk</li>
+                <li>2.5 cups all-purpose flour</li>
+                <li>1 tablespoon garlic salt</li>
+                <li>1 teaspoon paprika</li>
+                <li>1 teaspoon black pepper</li>
+                <li>1 teaspoon thyme</li>
+                <li>1 teaspoon cayenne pepper</li>
+                <li>.25 cup of milk</li>
+                <li>vegetable oil, for frying</li>
+            </ol>
+        </prereq>
+    </taskbody>
+</task>

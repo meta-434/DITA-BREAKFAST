@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="topic-breakfast-recipes" path="topic.html"/>
+   <appContext helpID="t-vfriedck" path="vchicken_ingredients.html"/>
+   <appContext helpID="t-vfriedck-cooking" path="vchicken_cook.html"/>
+   <appContext helpID="t-vwaffles" path="vwaffle_ingredients.html"/>
+   <appContext helpID="t-vwaffles-cooking" path="vwaffles_cook.html"/>
+</map>

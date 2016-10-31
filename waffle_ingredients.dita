@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t-waffles" audience="mom" product="regular">
+    <title>Waffle Ingredients</title>
+    <shortdesc>Fluffy and light waffles that complement the crunch and savory of the chicken with its own sweetness and softness, with an added kick of jalapeños. </shortdesc>
+    <taskbody>
+        
+        <prereq>
+            <ol id="waffles">
+                <li>2 cups all-purpose flour</li>
+                <li>.25 cups sugar</li>
+                <li>1 tablespoon baking powder</li>
+                <li>.5 teaspoon salt</li>
+                <li>1.5 cups milk</li>
+                <li>1 tablespoon vanilla extract</li>
+                <li>4 large egg whites plus 2 large egg yolks</li>
+                <li>1 stick of salted butter, melted</li>
+                <li>1 or 2 jalapeños, chopped</li>
+            </ol>
+        </prereq>
+    </taskbody>
+</task>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map audience="armando">
+ <title>Vegan Chicken and Waffles Breakfast Guide</title>
+ 
+ <topicref href="topic.dita" audience="armando"></topicref>
+ 
+
+  <topicref href="vchicken_ingredients.dita" audience="armando"></topicref>
+  <topicref href="vchicken_cook.dita" audience="armando"></topicref>
+  <topicref href="vwaffle_ingredients.dita" audience="armando"></topicref>
+  <topicref href="vwaffles_cook.dita" audience="armando"></topicref>
+ 
+</map>

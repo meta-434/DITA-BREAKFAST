@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t-vfriedck" product="vegan"  audience="armando">
+    <title>Vegan Fried Chicken Ingredients</title>
+    <shortdesc> This vegan fried chicken is half of an amazing chicken and waffles recipie that is
+        entirely vegan while busting the stereotype of bland, uninspired vegan cooking. The spices
+        and seasoning in this "toficken" will bring it to the next level and really wake you up in
+        the morning.</shortdesc>
+    <taskbody>
+        
+        <prereq>
+            <ol id="veganchicken">
+                <li>1 14oz package of tofu</li>
+                <li>3 flax eggs (1 tablespoon ground flax seeds, plus 3 tablespoons of water per egg), mixed with ice cold almond milk</li>
+                <li>1 cup of hot sauce</li>
+                <li>2 cups all purpose flour</li>
+                <li>3 teaspoons baking powder</li>
+                <li>1 teaspoon salt</li>
+                <li>1 teaspoon pepper</li>
+                <li>Vegetable oil, for frying</li>
+            </ol>
+        </prereq>
+            </taskbody>
+</task>

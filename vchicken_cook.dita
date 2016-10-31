@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t-vfriedck-cooking" audience="armando">
+    <title>Cooking the Vegan Fried Chicken</title>
+    
+    <taskbody>
+        <prereq>
+            <p>You'll need access to a kitchen for this, including:</p>
+            <ul>
+                <li>A pan</li>
+                <li>A stove</li>
+                <li>knives</li>
+                <li>tongs</li>
+                <li>assorted bowls</li>
+            </ul>
+        </prereq>
+        <context>How to prepare and cook the tofu fried chicken. </context>
+        <steps>
+            <step>
+                <cmd>Heat a large pot of oil on the stove.</cmd>
+            </step>
+            <step>
+                <cmd>Cut the tofu block into 1/4 - 1/3 inch wide slices by cutting along the long side of the block.</cmd>
+            </step>
+            <step>
+                <cmd>Press paper towels into the slices to drain the excess water</cmd>
+            </step>
+            <step>
+                <cmd>Lightly season with salt and pepper</cmd>
+            </step>
+            <step>
+                <cmd>Mix the flax eggs, almond milk, and hot sauce in a medium-sized bowl</cmd>
+                <info>The mixture should be thick.</info>
+            </step>
+            <step>
+                <cmd>Mix the flour, baking powder, salt, and pepper into a shallow baking dish</cmd>
+            </step>
+            <step>
+                <cmd>Dip the tofu slices into the hot sauce mixture</cmd>
+            </step>
+            <step>
+                <cmd>Dip the hot sauce mix covered slices into the flour mixture</cmd>
+                <stepresult>The slice should be evenly and entirely coated with both mixtures.</stepresult>
+            </step>
+            <step>
+                <cmd>Fry the slices in the hot oil for 2-3 minutes or until golden brown and crispy</cmd>
+                <info>For faster cooking, fry one slice at a time. The oil will cool less and cook faster.</info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

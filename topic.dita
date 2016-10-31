@@ -4,5 +4,16 @@
   <title>Breakfast Recipes</title>
   <body>
     <p>Quick and easy recipes tailored to specific tastes</p>
+    <fig>
+      <title>Vegan Fried Chicken and Waffles</title>
+      <image audience="armando" product="vegan" href="vegan_ck-n-waffles.png" align="left" height="200px" width="250px">
+      </image>
+    </fig>
+    <p>Vegan Recipe sourced from One Green Planet: http://www.onegreenplanet.org/vegan-recipe/chicken-and-waffles/</p>
+    <fig>
+      <title>Fried Chicken and Waffles</title>
+      <image audience="mom" href="ck-n-waffles.png" align="right" height="200px" width="250px"></image>
+    </fig>
+    <p audience="mom">Recipe sourced from Food Network and Ree Drummond: http://www.foodnetwork.com/recipes/ree-drummond/chicken-and-waffles.html</p>
   </body>
 </topic>

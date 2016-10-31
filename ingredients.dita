@@ -2,7 +2,6 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="t-ingredients">
     <title>Collect the neccesary ingredients for the chicken and waffles recipe</title>
-    <shortdesc/>
     <taskbody>
         <prereq>
         <ol audience="armando" id="veganchicken">

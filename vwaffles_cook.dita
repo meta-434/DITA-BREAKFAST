@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t-vwaffles-cooking" audience="armando">
+    <title>Cooking Vegan Waffles</title>
+    <shortdesc/>
+    <taskbody>
+        <prereq>
+            <p>You'll need access to a kitchen for this, including:</p>
+            <ul>
+                <li>A waffle iron</li>
+                <li>A whisk</li>
+                <li>A spoon</li>
+                <li>assorted bowls</li>
+            </ul>
+        </prereq>
+        <context>How to prepare and cook the vegan waffles. </context>
+        <steps>
+            <step>
+                <cmd>Preheat the waffle iron.</cmd>
+            </step>
+            <step>
+                <cmd>Whisk together the flour, baking powder, salt, and coconut sugar in a medium bowl</cmd>
+            </step>
+            <step>
+                <cmd>Add the almond milk and whisk to combine</cmd>
+            </step>
+            <step>
+                <cmd>Let the batter sit for a couple minutes and rise.</cmd>
+            </step>
+            <step>
+                <cmd>Spoon the batter into the hot waffle iron.</cmd>
+                <info>Cook the batter according to the waffle iron's specifications.</info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

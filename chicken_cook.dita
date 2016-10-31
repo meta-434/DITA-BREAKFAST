@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t-friedck-cooking">
+    <title>Cooking the Fried Chicken</title>
+    
+    <taskbody>
+        <prereq>
+            <p>You'll need access to a kitchen for this, including:</p>
+            <ul>
+                <li>A pan</li>
+                <li>A stove / oven</li>
+                <li>A fork</li>
+                <li>tongs</li>
+                <li>A baking sheet</li>
+                <li>assorted bowls</li>
+            </ul>
+        </prereq>
+        <context>
+            <p>How to cook fried chicken</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Preheat the oven to 360 farenheit</cmd>
+            </step>
+            <step>
+                <cmd>Heat vegetable oil for frying</cmd>
+            </step>
+            <step>
+                <cmd>Rinse the chicken</cmd>
+            </step>
+            <step>
+                <cmd>Soak the chicken in 1 3/4 cups of buttermilk</cmd>
+            </step>
+            <step>
+                <cmd>Mix together flour, salt, paprika, pepper, thyme, and cayenne in a large bowl and stir</cmd>
+            </step>
+            <step>
+                <cmd>Mix together remaining 1/4 cup of buttermilk and milk in a small bowl</cmd>
+            </step>
+            <step>
+                <cmd>Pour milk mixture into flour mixture bowl</cmd>
+            </step>
+            <step>
+                <cmd>Mix with a fork until uniform texture</cmd>
+                <info>This will more evenly coat the chicken</info>
+            </step>
+            <step>
+                <cmd>Coat the chicken pieces in buttermilk / flour mixture evenly</cmd>
+            </step>
+            <step>
+                <cmd>Fry the chicken in the oil for 5 minutes per side, or until golden brown and crispy</cmd>
+            </step>
+            <step>
+                <cmd>Transfer fried chicken to a baking sheet and bake for 15 minutes</cmd>
+                <info>This is to ensure the chicken is fully cooked throughout</info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

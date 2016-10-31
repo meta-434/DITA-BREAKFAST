@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t-waffle-cooking">
+        <title>Cooking the Waffles</title>
+        
+        <taskbody>
+            <prereq>
+                <p>You'll need access to a kitchen for this, including:</p>
+                <ul>
+                    <li>A waffle iron</li>
+                    <li>A stove / oven</li>
+                    <li>A fork</li>
+                    <li>assorted bowls</li>
+                    <li>A sifter or sieve</li>
+                </ul>
+            </prereq>
+            <context>
+                <p>How to cook waffles</p>
+            </context>
+            <steps>
+                <step>
+                    <cmd>Preheat the waffle iron according to specifications</cmd>
+                </step>
+                <step>
+                    <cmd>Sift together flour, sugar, baking powder, and salt in a bowl</cmd>
+                </step>
+                <step>
+                    <cmd>In a separate bowl, whisk together milk, vanilla, and 2 egg yolks</cmd>
+                </step>
+                <step>
+                    <cmd>Pour egg mixture over flour mixture</cmd>
+                </step>
+                <step>
+                    <cmd>Gently stir egg / flour mixture until halfway combined</cmd>
+                </step>
+                <step>
+                    <cmd>Pour in melted butter and chopped jalapeno</cmd>
+                </step>
+                <step>
+                    <cmd>Continue to stir gently</cmd>
+                </step>
+                <step>
+                    <cmd>In a separate bowl, whisk 4 egg whites until stiff peaks appear</cmd>
+                </step>
+                <step>
+                    <cmd>Slowly fold whipped egg whites into batter</cmd>
+                    <info>Do not mix too much, this will destroy the whipped egg whites</info>
+                </step>
+                <step>
+                    <cmd>The batter is ready to be used on the waffle iron</cmd>
+                </step>
+            </steps>
+        </taskbody>
+    </task>
+    
